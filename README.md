@@ -1,4 +1,4 @@
-# Thanks for visiting. I'm an analog IC design engineer with 20+ years of experience. Feel free to connect with me on LinkedIn.
+## Thanks for visiting. I'm an analog IC design engineer with 20+ years of experience. Feel free to connect with me on LinkedIn.
 
 - 🔭 I’m currently working on "fixing" (cleaning the code and UX) Xschem and adding features to it.
 - 🌱 I’m currently learning to build software and boost productivity with AI.
