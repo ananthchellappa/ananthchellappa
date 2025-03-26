@@ -1,5 +1,14 @@
-## Hi there 👋
+# Thanks for visiting. I'm an analog IC design engineer with 20+ years of experience. Feel free to connect with me on LinkedIn.
 
+- 🔭 I’m currently working on "fixing" (cleaning the code and UX) Xschem and adding features to it.
+- 🌱 I’m currently learning to build software and boost productivity with AI.
+- 👯 I’m looking to collaborate on Xschem.
+- 🤔 I’m looking for help with Xschem.
+- 💬 Ask me about analog design and Cadence.
+- 📫 How to reach me: use this email, or connect on LinkedIn.
+- ⚡ Fun fact: I take notes in shorthand 😊
+
+- 
 <!--
 **ananthchellappa/ananthchellappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
