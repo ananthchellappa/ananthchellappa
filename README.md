@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on "fixing" (cleaning the code and UX) Xschem and adding features to it.
 - 🌱 I’m currently learning to build software and boost productivity with AI.
 - 👯 I’m looking to collaborate on Xschem.
-- 🤔 I’m looking for help with Xschem.
+- 🤔 I’m looking for help with Xschem. (https://www.gofundme.com/f/enhance-xschem)
 - 💬 Ask me about analog design and Cadence.
 - 📫 How to reach me: use this email, or connect on LinkedIn.
 - ⚡ Fun fact: I take notes in shorthand 😊
