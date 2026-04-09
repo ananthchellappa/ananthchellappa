@@ -7,6 +7,8 @@
 - 💬 Ask me about analog design and Cadence.
 - 📫 How to reach me: use this email, or connect on LinkedIn.
 - ⚡ Fun fact: I take notes in shorthand 😊
+- See if these productivity tips help out : https://ananthskaizen.blogspot.com/2025/04/getting-productive-setup-on-gnome.html
+- Cadence tips : https://cadencetips.blogspot.com/
 <!--
 **ananthchellappa/ananthchellappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
